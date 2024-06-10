@@ -1,6 +1,11 @@
-@article{bandara2024p2pxml,
-  title={Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity},
-  author={Nuwan Bandara and Dasun Premathilaka and Sachini Chandanayake and Sahan Hettiarachchi and Vithurshan Varenthirarajah and Aravinda Munasinghe and Kaushalya Madhawa and Subodha Charles},
-  journal={biorXiv preprint biorXiv:},
-  year={2024}
+@article {Bandara2024.06.09.598103,
+	author = {Bandara, Nuwan Sriyantha and Premathilaka, Dasun and Chandanayake, Sachini and Hettiarachchi, Sahan and Varenthirarajah, Vithurshan and Munasinghe, Aravinda and Madhawa, Kaushalya and Charles, Subodha},
+	title = {Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity},
+	elocation-id = {2024.06.09.598103},
+	year = {2024},
+	doi = {10.1101/2024.06.09.598103},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2024/06/10/2024.06.09.598103},
+	eprint = {https://www.biorxiv.org/content/early/2024/06/10/2024.06.09.598103.full.pdf},
+	journal = {bioRxiv}
 }
