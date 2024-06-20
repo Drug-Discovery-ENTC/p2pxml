@@ -11,6 +11,8 @@ Example PDB files for Colab demonstration can be found [here](https://github.com
 
 The link for minimal demonstration for predicting binding affinity using the proposed combined model is on [Colab](https://colab.research.google.com/drive/1pDAU2Jizu3kZ2skybhhb45UcBJ2skYxY?usp=sharing). 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pDAU2Jizu3kZ2skybhhb45UcBJ2skYxY?usp=sharing)]
+
 ## Results
 
 <img src="https://github.com/Drug-Discovery-ENTC/p2pxml/blob/main/resources/scatter2.png" width="960" height="540"><br />
