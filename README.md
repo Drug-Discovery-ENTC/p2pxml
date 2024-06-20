@@ -9,7 +9,7 @@ Example PDB files for Colab demonstration can be found [here](https://github.com
 
 ## Colab Minimal Demonstration
 
-The link for minimal demonstration for predicting binding affinity using the proposed combined model is on [Colab](). 
+The link for minimal demonstration for predicting binding affinity using the proposed combined model is on [Colab](https://colab.research.google.com/drive/1pDAU2Jizu3kZ2skybhhb45UcBJ2skYxY?usp=sharing). 
 
 ## Results
 
