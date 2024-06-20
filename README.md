@@ -18,7 +18,7 @@ log10(IC50) of the predicted values vs log10(IC50) of the target values for the 
 
 ## Citation
 
-If you find our work, this repository, or novel algorithms or annotated datasets useful, please consider giving a star ⭐ and citing our [paper](https://www.biorxiv.org/content/10.1101/2024.06.09.598103v1).
+If you find our work, including this repository, geometric models and P2PXML dataset useful, please consider giving a star ⭐ and citing our [paper](https://www.biorxiv.org/content/10.1101/2024.06.09.598103v1).
 ```bibtex
 @article{bandara2024deep,
   title={Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity},
