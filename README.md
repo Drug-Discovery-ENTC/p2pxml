@@ -4,7 +4,7 @@
 
 ## Data
 
-The link for curated dataset can be found [here](https://zenodo.org/records/11531319).
+The link for our curated dataset (P2PXML) can be found [here](https://zenodo.org/records/11531319).
 Example PDB files for Colab demonstration can be found [here](https://github.com/Drug-Discovery-ENTC/p2pxml/tree/main/data).
 
 ## Colab Minimal Demonstration
