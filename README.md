@@ -33,3 +33,7 @@ If you find our work, including this repository, geometric models and P2PXML dat
 ## Note
 
 This repository will be updated step-wise in the near future. 
+
+## Issues 
+
+If found any error or need clarifications, please open an issue in the repository or contact the corresponding author (Nuwan) via [mailto:pmnsribandara@gmail.com](pmnsribandara@gmail.com).
