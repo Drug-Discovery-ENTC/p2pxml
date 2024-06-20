@@ -36,4 +36,4 @@ This repository will be updated step-wise in the near future.
 
 ## Issues 
 
-If found any error or need clarifications, please open an issue in the repository or contact the corresponding author (Nuwan) via [mailto:pmnsribandara@gmail.com](pmnsribandara@gmail.com).
+If found any error or need clarifications, please open an issue in the repository or contact the corresponding author (Nuwan) via pmnsribandara@gmail.com.
