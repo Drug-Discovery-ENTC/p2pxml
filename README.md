@@ -26,7 +26,6 @@ If you find our work, including this repository, geometric models and P2PXML dat
   title={Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity},
   author={Bandara, Nuwan Sriyantha and Premathilaka, Dasun and Chandanayake, Sachini and Hettiarachchi, Sahan and Varenthirarajah, Vithurshan and Munasinghe, Aravinda and Madhawa, Kaushalya and Charles, Subodha},
   journal={bioRxiv},
-  pages={2024--06},
   year={2024},
   publisher={Cold Spring Harbor Laboratory}
 }
