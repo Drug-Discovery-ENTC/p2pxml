@@ -1,6 +1,6 @@
 # P2PXML: Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity
 
-[Paper Link](https://www.biorxiv.org/content/10.1101/2024.06.09.598103v1) | [Project page for P2PXML](https://drug-discovery-entc.github.io/p2pxml/)
+[Link for Paper at Journal of Structural Biology](https://authors.elsevier.com/a/1m0Z53kGCFRMZX) | [Preprint Link](https://www.biorxiv.org/content/10.1101/2024.06.09.598103v1) | [Project page for P2PXML](https://drug-discovery-entc.github.io/p2pxml/)
 
 ## Data
 
@@ -22,12 +22,17 @@ log10(IC50) of the predicted values vs log10(IC50) of the target values for the 
 
 If you find our work, including this repository, geometric models and P2PXML dataset useful, please consider giving a star ⭐ and citing our [paper](https://www.biorxiv.org/content/10.1101/2024.06.09.598103v1).
 ```bibtex
-@article{bandara2024deep,
-  title={Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity},
-  author={Bandara, Nuwan Sriyantha and Premathilaka, Dasun and Chandanayake, Sachini and Hettiarachchi, Sahan and Varenthirarajah, Vithurshan and Munasinghe, Aravinda and Madhawa, Kaushalya and Charles, Subodha},
-  journal={bioRxiv},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory}
+@article{BANDARA2025108257,
+title = {Deep geometric framework to predict antibody–antigen binding affinity},
+journal = {Journal of Structural Biology},
+volume = {217},
+number = {4},
+pages = {108257},
+year = {2025},
+issn = {1047-8477},
+doi = {https://doi.org/10.1016/j.jsb.2025.108257},
+url = {https://www.sciencedirect.com/science/article/pii/S1047847725000929},
+author = {Nuwan Bandara and Dasun Premathilaka and Sachini Chandanayake and Sahan Hettiarachchi and Vithurshan Varenthirarajah and Aravinda Munasinghe and Kaushalya Madhawa and Subodha Charles}
 }
 ```
 
@@ -37,4 +42,4 @@ This repository will be updated step-wise in the near future.
 
 ## Issues 
 
-If found any error or need clarifications, please open an issue in the repository or contact the corresponding author (Nuwan) via pmnsribandara@gmail.com.
+If found any issues or need clarifications, please open an issue in the repository or contact the corresponding author (Nuwan) via pmnsribandara@gmail.com.
