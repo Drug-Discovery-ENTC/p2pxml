@@ -195,7 +195,12 @@
 				<tr>
 					<td align=center width=120px>
 						<div style="text-align: center;">
-							<span style="font-size:24px"><a href='https://www.biorxiv.org/content/10.1101/2024.06.09.598103v1'>[Paper]</a></span>
+							<span style="font-size:24px"><a href='https://authors.elsevier.com/a/1m0Z53kGCFRMZX'>[Paper at Journal of Structural Biology]</a></span>
+						</div>
+					</td>
+					<td align=center width=120px>
+						<div style="text-align: center;">
+							<span style="font-size:24px"><a href='https://github.com/Drug-Discovery-ENTC/p2pxml/'>[Accepted Version]</a></span><br>
 						</div>
 					</td>
 					<td align=center width=120px>
@@ -287,18 +292,7 @@
 		<tr>
 			<td>
 				<div style="text-align: justify;">
-					In the context of drug development, the efficacy of drugs designed using biologics depends on the strength of the interactions 
-					between the biologics and the target molecule. In practise, these strengths of the interactions are measured using binding affinity
-					 and thus, understanding the binding affinity between an engineered antibody and its target antigen is a critical aspect of antibody 
-					 engineering as it reflects the overall effectiveness of the antibody in inhibiting the activity of the target antigen. In theory, 
-					 potential candidate antibodies have a higher binding affinity towards the target antigen. Currently, techniques such as Molecular 
-					 docking and Molecular dynamics are utilized in quantifying the binding affinity. However, owing to the computational complexity of 
-					 the aforementioned techniques, running simulations for large antibodies/antigens remains a daunting task. Despite the commendable 
-					 improvements in deep learningbased binding affinity prediction, such approaches are highly dependent on the quality of the antibody-antigen 
-					 structures and they tend to overlook the importance of capturing the evolutionary details of proteins upon mutation. To circumvent the said 
-					 complexities, we propose a deep geometric neural network comprising a structure-based model and a sequence-based model that considers both 
-					 atomistic and evolutionary details when predicting the binding affinity. The proposed framework exhibited a 10% improvement in mean absolute 
-					 error compared to the state-of-the-art models while exhibiting a very strong correlation between the predictions and target values.
+					In drug development, the efficacy of an antibody depends on how the antibody interacts with the target antigen. The strength of these interactions, measured through “binding affinity”, gives an indication of how successful an antibody is in neutralizing an antigen. Due to the high computational complexity of traditional techniques for binding affinity quantification, deep learning is recently employed for the task at hand. Despite the commendable improvements in deep learning-based binding affinity prediction, such approaches are highly dependent on the quality of the antibody-antigen structures and they tend to overlook the importance of capturing the evolutionary details of proteins upon mutation. Further, most of the existing datasets for the task only include antibody-antigen pairs related to one antigen variant and, thus, are not suitable for developing comprehensive data-driven approaches. To circumvent the said complexities, we first curate the largest and most generalized (i.e., including a wide array of antigen variants) datasets for antibody-antigen binding affinity prediction, consisting of more than $100K$ sequence pairs, $8K$ structure pairs and the corresponding continuous binding affinity values. Subsequently, we propose a novel deep geometric neural network comprising a structure-based model, which is to account atomistic-scale structural features, and a sequence-based model, which is to attribute sequential and evolutionary information, while sharing the learned information from each model through cross-attention blocks. Further, within each parallel model, we mimic the interaction space of antibodies and antigens through a set of multi-scale hierarchical attention blocks and the final latent vectors of each model are obtained by considering antibody and antigen representative vectors and the interaction vector. The proposed framework exhibited a $10%$ improvement in mean absolute error compared to the state-of-the-art models while showing a strong correlation ($>0.87$) between the predictions and target values. Additionally, we extensively discuss the model optimization strategies, weight space analysis, and interpretability in a post-hoc fashion. We release our datasets and code publicly to support the development of antibody-antigen binding affinity prediction frameworks for the benefit of science and society. 
 				</div>
 			</td>
 		</tr>
@@ -430,11 +424,11 @@
 	<table align=center width=500px>
 		<center><h1>Paper</h1></center>
 		<tr>
-			<td><a href="https://www.biorxiv.org/content/10.1101/2024.06.09.598103v1"><img class="layered-paper-big" style="height:175px" src="./resources/Paper.png"/></a></td>
+			<td><a href="https://authors.elsevier.com/a/1m0Z53kGCFRMZX"><img class="layered-paper-big" style="height:175px" src="./resources/Paper.png"/></a></td>
 			<td><span style="font-size:14pt">
 				<b>P2PXML</b><br>
-				In Biorxiv, 2024.<br>
-				(hosted on <a href="https://www.biorxiv.org/content/10.1101/2024.06.09.598103v1">BiorXiv</a>)<br>
+				In Journal of Structural Biology, 2025.<br>
+				(hosted on <a href="https://authors.elsevier.com/a/1m0Z53kGCFRMZX">Journal of Structural Biology</a>)<br>
 				<!-- (<a href="./resources/camera-ready.pdf">camera ready</a>)<br> -->
 				<span style="font-size:4pt"><a href=""><br></a>
 				</span>
@@ -576,3 +570,4 @@
 <br>
 </body>
 </html>
+
